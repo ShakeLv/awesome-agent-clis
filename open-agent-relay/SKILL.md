@@ -19,14 +19,14 @@ The current release is an Alpha for direct calls on a trusted LAN. It uses plain
 ## Install
 
 ```bash
-pipx install "git+https://github.com/ShakespeareLabs/open-agent-relay.git@main"
+pipx install open-agent-relay
 relay version
 ```
 
 Python 3.11 or newer is required. Inside an existing virtual environment:
 
 ```bash
-python -m pip install "git+https://github.com/ShakespeareLabs/open-agent-relay.git@main"
+python -m pip install open-agent-relay
 ```
 
 ## Authentication
